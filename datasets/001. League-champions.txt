@@ -1,1 +1,1 @@
-[League champion dataset](https://op.gg/champions?fbclid=IwZXh0bgNhZW0CMTEAAR5iZyinninSk0si3BKkW8U08ecd86iJYf22gyJlbdnOVearyuZV0Jm1ityzuA_aem_KTfKNfv7kZW3_SSWshOiBQ)
+[League champion dataset](https://op.gg/champions)
